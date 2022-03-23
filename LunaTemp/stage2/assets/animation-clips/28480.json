@@ -1,0 +1,1 @@
+{"id":"28480","path":"Assets/Animations/UI/popup_show.anim","assetBundleId":"-1","data":["popup_show",0,0,0.25,[["BG","UnityEngine.RectTransform","m_LocalScale.x",[0,28],[]],["BG","UnityEngine.RectTransform","m_LocalScale.y",[28,28],[]],["BG","UnityEngine.RectTransform","m_LocalScale.z",[56,28],[]],["","UnityEngine.UI.Image","m_Color.a",[84,28],[]]],[],true]}

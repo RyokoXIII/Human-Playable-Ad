@@ -1,0 +1,204 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+[ Warn ] $Converting Assets/Sprites/UI/hand1.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Sprites/UI/Square.png texture. Change its format from ETC_RGB4Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Sprites/UI/blood bar blue.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Sprites/UI/bg_coin.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Sprites/UI/btn_green.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/Sprites/UI/bg_reward.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.
+Exporting assets from Unity................
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using D:/Studio Projects/Projects/Human-Playable/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[17120] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using C:/Windows/Fonts/arial.ttf file to generate an atlas for Arial[520] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at D:/Studio Projects/Projects/Human-Playable/LunaTemp/stage1/tmp/fonts/LiberationSans-17120/output_0.png (56kb)
+Combined 97 glyphs into bitmap texture at D:/Studio Projects/Projects/Human-Playable/LunaTemp/stage1/tmp/fonts/Arial-520/output_0.png (59kb)
+Resources:
+{"unity.preloader.icon":"resources/unity.preloader.icon.png","unity.preloader.background":"resources/unity.preloader.background.png"}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 3/22/2022 6:55:39 PM.
+
+Project "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_24 /highentropyva+ /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /reference:"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\ParticleEffectsLibrary.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEButtonScript.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\PEDestoryTimed.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\ParticleEffectsShowcase\Scripts\UICanvasManager.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXButtonScript.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXFireProjectile.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXLoopScript.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXMouseOrbit.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Demo\Scripts\ETFXSceneManager.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Scripts\ETFXLightFade.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Scripts\ETFXPitchRandomizer.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Epic Toon FX\Scripts\ETFXRotation.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\BossController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\BulletController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CameraFollow.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CanvasScalerMatch.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CharacterController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ClampScore.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\EnemyController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\FighterController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\GameManager.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\GameUIManager.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ItemController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\MapManager.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\MultiController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Object Pooling\SCR_Pool.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\DispatcherType.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\EventDispatcher.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\EventDispatcherExtension.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\EventID.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\LazySingleton.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\Observer\TransformExtend.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PanelFighting.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PopupEnding.cs" "D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\SoundController.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(15,33): warning CS0649: Field 'PlayerController.mainCamera' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(21,27): warning CS0649: Field 'PlayerController.textScore' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ClampScore.cs(5,33): warning CS0649: Field 'ClampScore.goScore' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Sc
+ripts\Scripts.csproj]
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ItemController.cs(21,21): warning CS0169: The field 'ItemController.dirMotion' is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(22,27): warning CS0169: The field 'PlayerController.textMultiplier' is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CanvasScalerMatch.cs(6,37): warning CS0649: Field 'CanvasScalerMatch.arAanvasScaler' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\SoundController.cs(8,34): warning CS0649: Field 'SoundController.audioSound' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\GameUIManager.cs(10,33): warning CS0649: Field 'GameUIManager.panelStart' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CharacterController.cs(30,10): warning CS0414: The field 'CharacterController.isAttacking' is assigned but its value is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - c89d82aa-9d80-416f-ae2f-c95b14ac895c
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(15,33): warning CS0649: Field 'PlayerController.mainCamera' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(21,27): warning CS0649: Field 'PlayerController.textScore' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ClampScore.cs(5,33): warning CS0649: Field 'ClampScore.goScore' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\ItemController.cs(21,21): warning CS0169: The field 'ItemController.dirMotion' is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\PlayerController.cs(22,27): warning CS0169: The field 'PlayerController.textMultiplier' is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CanvasScalerMatch.cs(6,37): warning CS0649: Field 'CanvasScalerMatch.arAanvasScaler' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\SoundController.cs(8,34): warning CS0649: Field 'SoundController.audioSound' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\GameUIManager.cs(10,33): warning CS0649: Field 'GameUIManager.panelStart' is never assigned to, and will always have its default value null [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Studio Projects\Projects\Human-Playable\Assets\Scripts\CharacterController.cs(30,10): warning CS0414: The field 'CharacterController.isAttacking' is assigned but its value is never used [D:\Studio Projects\Projects\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+
+    9 Warning(s)
+    0 Error(s)
+
+
+Time Elapsed 00:00:05.94
+
+Source code compiled successfully!
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully

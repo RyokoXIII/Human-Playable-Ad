@@ -1,0 +1,202 @@
+Base path: 'D:/Applications/Editor/2020.3.24f1/Editor/Data', plugins path 'D:/Applications/Editor/2020.3.24f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=10481 outsize=10481 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6583 outsize=6583 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Diffuse platform=gles type=5 mask=6 insize=2539 outsize=2539 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=3968 outsize=3968 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=2378 outsize=2378 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=15748 outsize=15748 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8866 outsize=8866 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8373 outsize=8373 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Diffuse platform=gles type=5 mask=6 insize=4156 outsize=4156 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=3493 outsize=3493 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12736 outsize=12736 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7382 outsize=7382 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=5906 outsize=5906 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6341 outsize=6341 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Diffuse platform=gles type=5 mask=6 insize=4009 outsize=4009 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6650 outsize=6650 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/VertexLit platform=gles type=5 mask=6 insize=9029 outsize=9029 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12801 outsize=12801 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=10481 outsize=10481 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6583 outsize=6583 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Diffuse platform=gles type=5 mask=6 insize=4156 outsize=4156 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6139 outsize=6139 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/VertexLit platform=gles type=5 mask=6 insize=9029 outsize=9029 ok=1
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=gles type=5 mask=6 insize=2569 outsize=2569 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9009 outsize=9009 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6807 outsize=6807 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=5039 outsize=5039 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6139 outsize=6139 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=4064 outsize=4064 ok=1
+
+Cmd: disassembleShader
+ name=Mobile/VertexLit platform=gles type=5 mask=6 insize=6961 outsize=6961 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8866 outsize=8866 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9671 outsize=9671 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=3059 outsize=3059 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6497 outsize=6497 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=1845 outsize=1845 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=12801 outsize=12801 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7382 outsize=7382 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6807 outsize=6807 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Diffuse platform=gles type=5 mask=6 insize=2539 outsize=2539 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=8207 outsize=8207 ok=1
+
+Cmd: disassembleShader
+ name=Mobile/Diffuse platform=gles type=5 mask=6 insize=2451 outsize=2451 ok=1
+
+Cmd: disassembleShader
+ name=Skybox/Procedural platform=gles type=5 mask=6 insize=11808 outsize=11808 ok=1
+
+Cmd: compileSnippet
+  insize=1647 file=Assets/DefaultResourcesExtra/Standard pass=FORWARD cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=-2 rsLen=0 pKW=UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_MOBILE UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_RGBM_ENCODING UNITY_ASTC_NORMALMAP_ENCODING UNITY_PASS_FORWARDBASE uKW=DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON _SPECULARHIGHLIGHTS_OFF dKW=FOG_LINEAR FOG_EXP FOG_EXP2 INSTANCING_ON _NORMALMAP _ALPHATEST_ON _ALPHABLEND_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _PARALLAXMAP SHADOWS_SHADOWMASK DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING DIRLIGHTMAP_COMBINED SHADOWS_SCREEN UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION SHADER_API_GLES30 flags=268435456 lang=0 type=Vertex platform=gles reqs=227 mask=6 start=68 ok=1 outsize=14227
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=14227 outsize=14227 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=9009 outsize=9009 ok=1
+
+Cmd: compileSnippet
+  insize=1487 file=Assets/DefaultResourcesExtra/Standard pass=FORWARD_DELTA cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=-2 rsLen=0 pKW=UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_MOBILE UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_RGBM_ENCODING UNITY_ASTC_NORMALMAP_ENCODING UNITY_PASS_FORWARDADD uKW=POINT _SPECULARHIGHLIGHTS_OFF dKW=FOG_LINEAR FOG_EXP FOG_EXP2 _NORMALMAP _ALPHATEST_ON _ALPHABLEND_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP _PARALLAXMAP DIRECTIONAL SPOT POINT_COOKIE DIRECTIONAL_COOKIE SHADOWS_SHADOWMASK LIGHTMAP_SHADOW_MIXING SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_SCREEN SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION SHADER_API_GLES30 flags=268435456 lang=0 type=Vertex platform=gles reqs=227 mask=6 start=106 ok=1 outsize=6691
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6691 outsize=6691 ok=1
+
+Cmd: compileSnippet
+  insize=1442 file=Assets/DefaultResourcesExtra/Standard pass=FORWARD cachingPP=1 ppOnly=0 stripLineD=0 buildPlatform=-2 rsLen=0 pKW=UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_MOBILE UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_RGBM_ENCODING UNITY_ASTC_NORMALMAP_ENCODING UNITY_PASS_FORWARDBASE uKW=DIRECTIONAL VERTEXLIGHT_ON _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF dKW=FOG_LINEAR FOG_EXP FOG_EXP2 _NORMALMAP _ALPHATEST_ON _ALPHABLEND_ON _ALPHAPREMULTIPLY_ON _METALLICGLOSSMAP LIGHTPROBE_SH SHADOWS_SHADOWMASK DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING SHADOWS_SCREEN UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION SHADER_API_GLES30 flags=268435456 lang=0 type=Vertex platform=gles reqs=1 mask=6 start=237 ok=1 outsize=5231
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=5231 outsize=5231 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=5097 outsize=5097 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=6341 outsize=6341 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=3968 outsize=3968 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=2233 outsize=2233 ok=1
+
+Cmd: disassembleShader
+ name=UI/Default platform=gles type=5 mask=6 insize=3194 outsize=3194 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=7488 outsize=7488 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8380 outsize=8380 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=3059 outsize=3059 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=8426 outsize=8426 ok=1
+
+Cmd: disassembleShader
+ name=Mobile/Diffuse platform=gles type=5 mask=6 insize=3975 outsize=3975 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Sprite platform=gles type=5 mask=6 insize=2378 outsize=2378 ok=1
+
+Cmd: disassembleShader
+ name=UI/Default platform=gles type=5 mask=6 insize=3194 outsize=3194 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8866 outsize=8866 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=8373 outsize=8373 ok=1
+
+Cmd: disassembleShader
+ name=Standard platform=gles type=5 mask=6 insize=3059 outsize=3059 ok=1
+
+Cmd: disassembleShader
+ name=TextMeshPro/Mobile/Distance Field platform=gles type=5 mask=6 insize=6270 outsize=6270 ok=1
+
+Cmd: disassembleShader
+ name=Legacy Shaders/Transparent/Diffuse platform=gles type=5 mask=6 insize=4064 outsize=4064 ok=1
+
+Cmd: shutdown
