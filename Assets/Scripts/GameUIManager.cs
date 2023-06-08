@@ -91,7 +91,7 @@ public class GameUIManager : MonoBehaviour
         popupEnding.SetActive(true);
         installContainer.SetActive(false);
 
-        Luna.Unity.LifeCycle.GameEnded();
+        //Luna.Unity.LifeCycle.GameEnded();
     }
 
     public void ShowPopupDefeat(float delay)
@@ -135,8 +135,9 @@ public class GameUIManager : MonoBehaviour
     public void ButtonDownload()
     {
         installClick++;
-        Luna.Unity.Playable.InstallFullGame();
-        Luna.Unity.Analytics.LogEvent("download_click", installClick);
+        //Luna.Unity.Playable.InstallFullGame();
+        //Luna.Unity.Analytics.LogEvent("download_click", installClick);
+        Debug.Log("CTA!");
     }
 
     int ctaClick = 0;
@@ -144,8 +145,9 @@ public class GameUIManager : MonoBehaviour
     public void ButtonDirectToStore()
     {
         ctaClick++;
-        Luna.Unity.Playable.InstallFullGame();
-        Luna.Unity.Analytics.LogEvent("cta_click", ctaClick);
+        //Luna.Unity.Playable.InstallFullGame();
+        //Luna.Unity.Analytics.LogEvent("cta_click", ctaClick);
+        Debug.Log("CTA!");
     }
 
     #region reward skin

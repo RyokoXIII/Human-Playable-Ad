@@ -65,7 +65,7 @@ public class PlayerController : MonoBehaviour
     {
         if (isTap == false)
         {
-            Luna.Unity.LifeCycle.GameEnded();
+            //Luna.Unity.LifeCycle.GameEnded();
             panelTap.SetActive(true);
             tapToAttackHint.SetActive(true);
             Time.timeScale = 0f;

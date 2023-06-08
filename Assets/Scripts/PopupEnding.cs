@@ -38,8 +38,8 @@ public class PopupEnding : MonoBehaviour
         totalReward = Mathf.RoundToInt(manager.rewardCoin + 50);
         textDefaultReward.text = totalReward.ToString();
 
-        Luna.Unity.LifeCycle.GameEnded();
-        Luna.Unity.Analytics.LogEvent(Luna.Unity.Analytics.EventType.EndCardShown);
+        //Luna.Unity.LifeCycle.GameEnded();
+        //Luna.Unity.Analytics.LogEvent(Luna.Unity.Analytics.EventType.EndCardShown);
         //Open();
 
     }
@@ -110,7 +110,8 @@ public class PopupEnding : MonoBehaviour
     public void ButtonDirectToStore()
     {
         ctaClick++;
-        Luna.Unity.Playable.InstallFullGame();
-        Luna.Unity.Analytics.LogEvent("cta_click", ctaClick);
+        //Luna.Unity.Playable.InstallFullGame();
+        //Luna.Unity.Analytics.LogEvent("cta_click", ctaClick);
+        Debug.Log("CTA!");
     }
 }
